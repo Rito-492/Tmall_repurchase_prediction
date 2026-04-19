@@ -1,6 +1,7 @@
 # 重复购买预测系统
 
 > 比赛链接：[天猫复购预测-挑战Baseline](https://tianchi.aliyun.com/competition/entrance/231576)
+
 > 实验所需数据集请在比赛官网下载，并放入 `data/` 目录下。
 
 预测"双十一"期间新客户在未来 6 个月内成为忠实客户（重复购买）的概率。
