@@ -1,0 +1,12 @@
+
+*.mkv
+
+*.pdf
+
+*.png
+
+.claude
+
+data/
+
+results/
